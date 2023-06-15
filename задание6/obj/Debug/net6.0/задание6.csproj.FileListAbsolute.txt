@@ -1,0 +1,15 @@
+D:\дз3\задание6\bin\Debug\net6.0\задание6.exe
+D:\дз3\задание6\bin\Debug\net6.0\задание6.deps.json
+D:\дз3\задание6\bin\Debug\net6.0\задание6.runtimeconfig.json
+D:\дз3\задание6\bin\Debug\net6.0\задание6.dll
+D:\дз3\задание6\bin\Debug\net6.0\задание6.pdb
+D:\дз3\задание6\obj\Debug\net6.0\задание6.csproj.AssemblyReference.cache
+D:\дз3\задание6\obj\Debug\net6.0\задание6.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз3\задание6\obj\Debug\net6.0\задание6.AssemblyInfoInputs.cache
+D:\дз3\задание6\obj\Debug\net6.0\задание6.AssemblyInfo.cs
+D:\дз3\задание6\obj\Debug\net6.0\задание6.csproj.CoreCompileInputs.cache
+D:\дз3\задание6\obj\Debug\net6.0\задание6.dll
+D:\дз3\задание6\obj\Debug\net6.0\refint\задание6.dll
+D:\дз3\задание6\obj\Debug\net6.0\задание6.pdb
+D:\дз3\задание6\obj\Debug\net6.0\задание6.genruntimeconfig.cache
+D:\дз3\задание6\obj\Debug\net6.0\ref\задание6.dll
